@@ -5,7 +5,7 @@ Welcome to my personal portfolio website, where I showcase my skills and project
 ## Features
 
 - Personalized and responsive portfolio design
-- Demonstration of skills in HTML, CSS, and JavaScript
+- Demonstration of skills in HTML and CSS
 - Showcase of web development projects
 - Seamless user experience for visitors
 - Clean and innovative design for an impactful presentation
